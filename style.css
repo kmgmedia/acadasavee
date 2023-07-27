@@ -40,9 +40,39 @@
     margin: 10% auto;
 }
 
+.spectar1 {
+    margin: 20% auto;
+}
+
+.hero-img-6 {
+    padding-top: 30%;
+    padding-right: 30;
+}
+
 .card-item-footer {
     background: orangered;
     padding: 3px;
+}
+
+.herotext1 {
+    color: #0a042be1;
+}
+
+.herotext1 p {
+    color: #0a042be1;
+}
+
+.herotext2 {
+    color: #0a042be1;
+}
+
+.herotext2 p {
+    color: #0a042be1;
+}
+
+.herotext2 {
+    padding-left: 30%;
+    padding-top: 20%;
 }
 
 .card-section-item {
@@ -61,9 +91,46 @@
     border-top-right-radius: 7px;
 }
 
-.card-header-item, .card-body-item {
-    padding: 10px 13px;
+.herotext3 {
+    padding-top: 10%;
 }
+
+
+.hero-img-7 {
+    padding-top: 20%;
+}
+
+.card-deck {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.card-header-item, .card-body-item {
+    padding-top: 10px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+
+.card-body-item p {
+    padding-top: 30% 10% ;
+}
+
+
+.card-body-item {
+    padding-left: 20px; padding-right: 20px;
+    margin-left: 70px; margin-right: 70px;
+    text-indent: none;
+}
+
+.group{
+    display: inline-block;
+}
+
+.hero-img img{
+    margin-left: 30px;
+}
+
 
 @media screen and (max-width: 992px) {
     .card-overall-section {
