@@ -131,6 +131,55 @@
     margin-left: 30px;
 }
 
+.class-background {
+    background-color: #5000CA;
+}
+
+.box {
+    width: 60%;
+    background-color: skyblue;
+    color: aliceblue;
+    border-radius: 10px;
+    padding-left: 100px;
+    margin-left: 400px;
+}
+
+.box .box-header {
+    font-size: medium;
+    padding-top: 20px;
+}
+
+
+.box-right button {
+    border: none;
+    color: #4a159f;
+    border-radius: 7px;
+    font-size: 20px;
+}
+
+.box-para {
+    margin-top: -2px;
+}
+
+.container p {
+    margin-top: 20px;
+    color: #7e7e7e;
+    padding-left: 13px;
+}
+
+.text-uppercase {
+    color: #dddddd;
+    padding-top: 10px;
+}
+
+/* .text-uppercase .text-white {
+    padding-top: 20px;
+} */
+
+.container img {
+    margin: 5px;
+    padding-left: 10px;
+}
 
 @media screen and (max-width: 992px) {
     .card-overall-section {
