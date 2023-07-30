@@ -166,6 +166,11 @@
     margin-top: -2px;
 }
 
+.footer-below footer {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
 .container p {
     margin-top: 20px;
     color: #7e7e7e;
