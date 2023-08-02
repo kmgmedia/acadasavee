@@ -135,6 +135,8 @@
     background-color: #5000CA;
 }
 
+
+/* ready to get started box */
 .box {
     width: 60%;
     background-color: skyblue;
@@ -148,7 +150,7 @@
     font-size: medium;
     padding-top: 20px;
 }
-
+/* END ready to get started box */
 
 .box-right button {
     border: none;
@@ -190,6 +192,15 @@
     margin: 5px;
     padding-left: 10px;
 }
+
+/* card section */
+.card-deck {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+/* END of card section */
+
 
 @media screen and (max-width: 992px) {
     .card-overall-section {
