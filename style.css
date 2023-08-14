@@ -1,4 +1,15 @@
+/* Beginning FadeIn Animation */
+@keyframes fadeIn {
+    0% {
+    opacity: 0;
+    }
+    100% {
+    opacity: 1;
+    }
+}
+animation: fadeIn 5s infinite;
 
+/* /* End FadeIn Animation */
 
 .row {
     margin: 0 !important;
@@ -44,9 +55,15 @@
     margin: 20% auto;
 }
 
+.text-img {
+    padding-left: 20%;
+    animation: fadeIn 8s infinite;
+}
+
 .hero-img-6 {
     padding-top: 30%;
     padding-right: 30;
+    animation: fadeIn 8s infinite;
 }
 
 .card-item-footer {
@@ -98,6 +115,7 @@
 
 .hero-img-7 {
     padding-top: 20%;
+    animation: fadeIn 10s infinite;
 }
 
 .card-deck {
@@ -129,6 +147,7 @@
 
 .hero-img img{
     margin-left: 30px;
+    animation: fadeIn 8s infinite;
 }
 
 .class-background {
